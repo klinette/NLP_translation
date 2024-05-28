@@ -4,7 +4,7 @@ Integration of Coreference Resolution into Machine Translation from Non-gendered
 Final project for MIT's Quantitative Methods for Natural Language Processing class (6.8610), Fall 2022
 
 ## Description
-We integrating a coreference resolution system with a transformer machine translation system to improve gender agreements between pronouns/nouns and adjectives in translations
+We integrated a coreference resolution system with a transformer machine translation system to improve gender agreements between pronouns/nouns and adjectives in translations
 from non-gendered to gendered languages.
 
 ## Instructions
