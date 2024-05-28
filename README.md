@@ -1,5 +1,6 @@
 # NLP_translation
 Integration of Coreference Resolution into Machine Translation from Non-gendered to Gendered Languages
+
 Final project for MIT's Quantitative Methods for Natural Language Processing class (6.8610), Fall 2022
 
 ## Description
